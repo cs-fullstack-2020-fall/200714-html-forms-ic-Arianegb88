@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    padding: 5px;
+    border-radius: 30px;
+}
+
+#button {
+    background-color: green;
+    display: block;
+    border-radius: 10px;
+    padding:20px;
+    width:
+    fit-content
+
+
+}
